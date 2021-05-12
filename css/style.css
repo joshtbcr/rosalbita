@@ -682,8 +682,8 @@ figure {
   line-height: 1.8;
 }
 
-#fh5co-portfolio {
-  padding: 7em 0;
+#fh5co-portfolio { 
+  padding: 0 0 7em 0;
   min-height: 500px;
 }
 @media screen and (max-width: 768px) {
