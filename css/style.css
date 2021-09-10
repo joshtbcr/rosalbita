@@ -138,6 +138,12 @@ figure {
   position: relative;
   height: 800px;
 }
+
+.fh5co-cover-contacto,
+.fh5co-hero-contacto {
+  position: relative;
+  height: 800px;
+}
 @media screen and (max-width: 768px) {
   .fh5co-cover,
   .fh5co-hero {
@@ -176,6 +182,11 @@ figure {
   background-size: cover;
   position: relative;
 }
+
+.fh5co-cover-contacto {
+  background-size: cover;
+  position: relative;
+}
 @media screen and (max-width: 768px) {
   .fh5co-cover {
     heifght: inherit;
@@ -189,6 +200,8 @@ figure {
 .fh5co-cover.fh5co-cover_2 {
   height: 600px;
 }
+
+
 @media screen and (max-width: 768px) {
   .fh5co-cover.fh5co-cover_2 {
     heifght: inherit;
