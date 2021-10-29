@@ -559,6 +559,19 @@ figure {
   }
 }
 
+.fh5co-content-section{
+  padding: 7em 0;
+}
+@media screen and (max-width: 768px) {
+  .fh5co-content-section{
+    padding: 4em 0;
+  }
+}
+
+#nosotrosSection{
+  padding-top: 0em;
+}
+
 .fh5co-section-gray {
   background: rgba(0, 0, 0, 0.04);
 }
